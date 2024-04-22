@@ -1276,6 +1276,7 @@ footer {
 
 # 4. Copy Version
 
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc4-4f0b-9751-4ba318d462f7
 
 # 5. 활용 이미지/영상
 
@@ -1301,6 +1302,8 @@ footer {
 ![플레이 스토어 로고](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0)
 
 ### 활용 영상
+
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/b4606791-a966-43e6-b148-b16d7f327d63
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/56a1ed37-657f-4f17-8ccc-5173c09abd05
 
