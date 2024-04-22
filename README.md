@@ -1287,9 +1287,11 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc
 
 <img width="118" alt="ic-ryan" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0c67cc69-2ab8-41ca-9637-401bfab6d8fb">
 
-<img width="600" alt="img_pc_2" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/1dacb80e-2668-4947-93b5-dbda4103a0fd">
+<img width="300" alt="img_pc_2" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/1dacb80e-2668-4947-93b5-dbda4103a0fd">
 
-<img width="600" alt="img_pc_3" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/6a831bc1-ffa9-40a8-9558-f6b8aceee305">
+<img width="300" alt="img_pc_3" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/6a831bc1-ffa9-40a8-9558-f6b8aceee305">
+
+<img width="300" alt="img_pc_6" src="[https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/6a831bc1-ffa9-40a8-9558-f6b8aceee305](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/88ff1319-ee29-4eec-8472-6f8882fcedbb)">
 
 ![img_pc_6](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/88ff1319-ee29-4eec-8472-6f8882fcedbb)
 
