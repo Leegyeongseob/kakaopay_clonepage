@@ -1276,51 +1276,37 @@ footer {
 
 # 4. Copy Version
 
-[kakaopage_clone.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/28e7afa4-7108-446d-b518-e8d4c96ed371/kakaopage_clone.mp4)
 
-# 5. 결과 링크
-
-[GitHub - Leegyeongseob/kakaopay_clonepage](https://github.com/Leegyeongseob/kakaopay_clonepage)
-
-# 6. 활용 이미지/영상
+# 5. 활용 이미지/영상
 
 ### 활용 이미지
+<img width="118" alt="ic-payment" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/e9840732-80c4-4689-ae8e-a8f35301d2c9">
 
-[ic-payment.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/70b197a6-6d7a-4b92-b198-fbf73ac8e742/ic-payment.png)
+<img width="118" alt="ic-pfm" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/f13dfc65-db27-4b67-8c55-d8f5b4006e43">
 
-[ic-pfm.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/712b2c9f-615f-425a-ab70-ee206099edf6/ic-pfm.png)
+<img width="118" alt="ic-ryan" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0c67cc69-2ab8-41ca-9637-401bfab6d8fb">
 
-[ic-ryan.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/3dd3ac8e-2465-432f-bafb-6b2133014f29/ic-ryan.png)
+<img width="600" alt="img_pc_2" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/1dacb80e-2668-4947-93b5-dbda4103a0fd">
 
-[img_pc_2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/dd4928ea-c36a-42ae-ae83-a089e58bf3a7/img_pc_2.png)
+<img width="600" alt="img_pc_3" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/6a831bc1-ffa9-40a8-9558-f6b8aceee305">
 
-[img_pc_3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/44c169b6-7679-4e5e-8488-c853809ffc03/img_pc_3.png)
+![img_pc_6](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/88ff1319-ee29-4eec-8472-6f8882fcedbb)
 
-[img_pc_6.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/e37c20d8-9407-42e6-a8dc-84745a1e7ad9/img_pc_6.jpg)
+![stock_mo_kor](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/bc60f96c-179e-4bb9-990a-012f38162f7e)
 
-[img1.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/afac42ef-d790-43ad-b562-2f6248cbd878/img1.webp)
+![stock_PC_kor](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/ffac32d6-3234-4f36-935b-8190433c5b9c)
 
-[img2.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/6fc6fd83-5981-4e2a-824b-b50f8798d4b0/img2.webp)
+![애플로고](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8b48b7b3-2f92-425d-9acc-3b6c18d2fb1f)
 
-[img3.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/0c3f767e-8ce7-4340-aba4-da0238ab27cb/img3.webp)
-
-[stock_mo_kor.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/00ea70b5-3e0d-49d4-9adf-7539ce77130e/stock_mo_kor.png)
-
-[stock_PC_kor.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/1a6b8d39-f47e-4518-bc73-ef2b35f2c39b/stock_PC_kor.png)
-
-[애플로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/71f2a682-cc1c-40a6-b9d3-c47ef18b8307/%EC%95%A0%ED%94%8C%EB%A1%9C%EA%B3%A0.png)
-
-[플레이 스토어 로고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/329856bb-62f0-4141-bbb8-c57836f3ce9d/%ED%94%8C%EB%A0%88%EC%9D%B4_%EC%8A%A4%ED%86%A0%EC%96%B4_%EB%A1%9C%EA%B3%A0.png)
+![플레이 스토어 로고](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0)
 
 ### 활용 영상
 
-[GPS_vidio.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/7510b345-de86-44fa-8eb0-ac9b14e931ad/GPS_vidio.mp4)
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/56a1ed37-657f-4f17-8ccc-5173c09abd05
 
-[main_vidio.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/cb53b92c-131b-44ad-8f64-300ce7a65047/main_vidio.mp4)
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/02e7f090-b852-46bd-b264-461aebbceec8
 
-[상품설명_vidio.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/144adb9d-0fc9-4c31-9c20-39a16169b3f5/%EC%83%81%ED%92%88%EC%84%A4%EB%AA%85_vidio.mp4)
-
-# 8. 느낀점
+# 6. 느낀점
 
 ### 1. 처음에 만들 때 레이아웃을 더 깊게 생각하지 못해서 나중에 margin으로 전부 따로 움직여서 배치해야 하는 일을 겪고 어떻게 레이아웃을 잡아야 하는지 깨달을 수 있었습니다.
 
