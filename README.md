@@ -1,24 +1,24 @@
 # 1. kakopay Clone Page
 
-[카카오페이|마음 놓고 금융하다](https://www.kakaopay.com/))
+[카카오페이 마음 놓고 금융하다](https://www.kakaopay.com/)
 
 ## 최소화면
 
-[전체화면kakaopay.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/37506797-4918-43d8-a3b0-a3d45b50d1ba/%EC%A0%84%EC%B2%B4%ED%99%94%EB%A9%B4kakaopay.mp4)
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/c8c0390b-e9e4-4d5d-a64a-77debdc8a2f9
 
 ## 최소크기 화면
 
-[반응형 최소화면 kakaopay.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/533e7b0b-b4e0-4c62-8e55-0f3caf527059/%EB%B0%98%EC%9D%91%ED%98%95_%EC%B5%9C%EC%86%8C%ED%99%94%EB%A9%B4_kakaopay.mp4)
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/dae00bb6-0cf9-4953-896b-ec3521aae271
 
 # 2. 메인페이지 레이아웃
 
 ## 전체화면 레이아웃
 
-![kakopay_layout.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/a7f5c17f-0627-4c90-b67f-834d61fd093e/kakopay_layout.png)
+![kakopay_layout](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8837f058-762d-4151-95cf-ba3d204935e3)
 
 ## 최소화면 레이아웃
 
-![kakao_layout_mobile.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/bdf8d538-0573-4e53-8871-08828a72d8e6/babfd3ec-99ea-4896-ae3b-484f22b7be6f/kakao_layout_mobile.png)
+![kakao_layout_mobile](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/5102f0d5-5ee2-42ae-9650-ae846c1b3026)
 
 # 3. 코드
 
