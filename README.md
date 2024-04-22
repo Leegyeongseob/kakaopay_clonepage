@@ -1304,7 +1304,7 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc
 
 ### 활용 영상
 
-<video width ="300" value ="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/b4606791-a966-43e6-b148-b16d7f327d63">
+https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/a9df74bb-4ae4-4779-8f2a-a53beb06e0d9
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/56a1ed37-657f-4f17-8ccc-5173c09abd05
 
