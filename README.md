@@ -1,6 +1,6 @@
 # 1. kakopay Clone Page
 
-[카카오페이 마음 놓고 금융하다](https://www.kakaopay.com/)
+[카카오페이 마음놓고 금융하다](https://www.kakaopay.com/)
 
 ## 최소화면
 
