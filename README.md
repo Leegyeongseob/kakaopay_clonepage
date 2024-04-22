@@ -1293,7 +1293,13 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc
 
 <img width="300" alt="img_pc_6" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/88ff1319-ee29-4eec-8472-6f8882fcedbb">
 
-![img_pc_6](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/88ff1319-ee29-4eec-8472-6f8882fcedbb)
+<img width="300" alt="stock_mo_kor" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/bc60f96c-179e-4bb9-990a-012f38162f7e">
+
+<img width="300" alt="stock_PC_kor" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/ffac32d6-3234-4f36-935b-8190433c5b9c">
+
+<img width="300" alt="애플로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8b48b7b3-2f92-425d-9acc-3b6c18d2fbf">
+
+<img width="300" alt="플레이 스토어 로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0">
 
 ![stock_mo_kor](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/bc60f96c-179e-4bb9-990a-012f38162f7e)
 
