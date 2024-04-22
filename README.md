@@ -1301,17 +1301,10 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc
 
 <img width="300" alt="플레이 스토어 로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0">
 
-![stock_mo_kor](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/bc60f96c-179e-4bb9-990a-012f38162f7e)
-
-![stock_PC_kor](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/ffac32d6-3234-4f36-935b-8190433c5b9c)
-
-![애플로고](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8b48b7b3-2f92-425d-9acc-3b6c18d2fb1f)
-
-![플레이 스토어 로고](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0)
 
 ### 활용 영상
 
-https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/b4606791-a966-43e6-b148-b16d7f327d63
+<video width ="300" value ="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/b4606791-a966-43e6-b148-b16d7f327d63">
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/56a1ed37-657f-4f17-8ccc-5173c09abd05
 
