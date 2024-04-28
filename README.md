@@ -29,21 +29,27 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc
 ![kakopay_layout](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8837f058-762d-4151-95cf-ba3d204935e3)      
 ![kakao_layout_mobile](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/5102f0d5-5ee2-42ae-9650-ae846c1b3026)
 
+# 5. 피드백
 
+### 1) 처음에 만들 때 레이아웃을 더 깊게 생각하지 못해서 나중에 margin으로 전부 따로 움직여서 배치해야 하는 일을 겪고 어떻게 레이아웃을 잡아야 하는지 깨달을 수 있었습니다.
 
-# 5. 참고 사이트 동작 화면
+### 2) display flex를 자유자재로 사용할 수 있게 되었습니다.
 
-## 최소화면
+### 3) java script를 사용하지 않아서 스크롤 이벤트를 비슷한 애니매이션으로 대체했습니다.
+
+# 6. 참고 사이트 동작 화면
+
+## 1) 최소화면
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/c8c0390b-e9e4-4d5d-a64a-77debdc8a2f9
 
-## 최소크기 화면
+## 2) 최소크기 화면
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/dae00bb6-0cf9-4953-896b-ec3521aae271
 
-# 6. 활용 이미지/영상
+# 7. 활용 이미지/영상
 
-## 활용 이미지
+## 1) 활용 이미지
 
 <img width="118" alt="ic-payment" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/e9840732-80c4-4689-ae8e-a8f35301d2c9">
 
@@ -66,21 +72,13 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/dae00bb6-0cf
 <img width="300" alt="플레이 스토어 로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0">
 
 
-## 활용 영상
+## 2) 활용 영상
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/a9df74bb-4ae4-4779-8f2a-a53beb06e0d9
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/56a1ed37-657f-4f17-8ccc-5173c09abd05
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/02e7f090-b852-46bd-b264-461aebbceec8
-
-# 7. 피드백
-
-### 1. 처음에 만들 때 레이아웃을 더 깊게 생각하지 못해서 나중에 margin으로 전부 따로 움직여서 배치해야 하는 일을 겪고 어떻게 레이아웃을 잡아야 하는지 깨달을 수 있었습니다.
-
-### 2. display flex를 자유자재로 사용할 수 있게 되었습니다.
-
-### 3. java script를 사용하지 않아서 스크롤 이벤트를 비슷한 애니매이션으로 대체했습니다.
 
 # 8. 코드
 
