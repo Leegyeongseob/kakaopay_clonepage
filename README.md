@@ -26,7 +26,7 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc
 
 ## 1) 전체화면 레이아웃               2) 모바일화면 레이아웃
 
-![kakopay_layout](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8837f058-762d-4151-95cf-ba3d204935e3)  
+![kakopay_layout](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8837f058-762d-4151-95cf-ba3d204935e3)      
 ![kakao_layout_mobile](https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/5102f0d5-5ee2-42ae-9650-ae846c1b3026)
 
 
