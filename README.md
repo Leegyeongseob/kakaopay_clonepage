@@ -16,11 +16,11 @@
 
 https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/43f59d40-7cc4-4f0b-9751-4ba318d462f7
 
-1.PC 버전 : 넓이가 1268px 이상
+1. PC 버전 : 넓이가 1268px 이상
 
-2.Footer 전환 : 770px <= 넓이 <= 1268px
+2. Footer 전환 : 770px <= 넓이 <= 1268px
 
-3.Mobile 버젼 : 넓이가 770px 이하
+3. Mobile 버젼 : 넓이가 770px 이하
 
 # 4. 메인페이지 레이아웃
 
