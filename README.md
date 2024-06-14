@@ -65,7 +65,7 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/dae00bb6-0cf
 
 <img width="300" alt="stock_mo_kr" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/91a876d2-fa25-4778-9f87-2441b64b32d2">
 
-<img width="300" alt="애플로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/8b48b7b3-2f92-425d-9acc-3b6c18d2fbf">
+<img width="300" alt="애플로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/95445a7c-70a6-4138-869e-06e1868d77bf">
 
 <img width="300" alt="플레이 스토어 로고" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/0538db20-19a1-4501-9b18-e848abfbb5c0">
 
