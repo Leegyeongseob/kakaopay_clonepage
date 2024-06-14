@@ -63,7 +63,6 @@ https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/dae00bb6-0cf
 
 <img width="300" alt="img_pc_6" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/88ff1319-ee29-4eec-8472-6f8882fcedbb">
 
-<img width="300" alt="stock_mo_kor" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/bc60f96c-179e-4bb9-990a-012f38162f7e">
 
 <img width="300" alt="stock_PC_kor" src="https://github.com/Leegyeongseob/kakaopay_clonepage/assets/67867076/ffac32d6-3234-4f36-935b-8190433c5b9c">
 
